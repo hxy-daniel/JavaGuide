@@ -1,0 +1,1 @@
+npm run build && cd dist && git init && git add -A && git commit -a -m"update" && git push -f git@github.com:hxy-daniel/JavaGuide.git master:pages && pause
